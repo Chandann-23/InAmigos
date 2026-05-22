@@ -26,4 +26,4 @@ This project was developed from scratch as part of **Task 1** for the NGO Awaren
 - **HTML5** (Clean, structured semantic markup)
 - **CSS3** (Modular variables, grid layouts, custom transition curves, and media queries)
 - **Google Fonts** (*Outfit* for brand headings, *Inter* for body readability)
-- **Unsplash API** (High-quality dynamically compressed images)
+- **Official Gallery Assets** (High-quality authentic campaign images directly sourced from the official InAmigos Foundation website)

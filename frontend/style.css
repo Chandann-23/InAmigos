@@ -94,8 +94,8 @@ nav {
 }
 
 .hero {
-    background: linear-gradient(rgba(13, 110, 253, 0.08), rgba(255, 255, 255, 1)),
-        url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80&w=1200') no-repeat center center/cover;
+    background: linear-gradient(rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.98)),
+        url('https://www.inamigosfoundation.org.in/public/storage/gallery/1743051485.jpg') no-repeat center center/cover;
     padding: 100px 5% 80px 5%;
     text-align: center;
     min-height: 75vh;
