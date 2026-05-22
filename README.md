@@ -13,9 +13,10 @@ This project was developed from scratch as part of **Task 1** for the NGO Awaren
 ---
 
 ## 🌟 Key Features
-- **Overview & Identity:** Spotlights the organization's history, compliance credentials (NITI Aayog, CSR-1, ISO 9001:2015, and 80G & 12A tax exemptions).
+- **Introduction & Identity:** Spotlights the organization's history, mission, and compliance credentials (NITI Aayog, CSR-1, ISO 9001:2015, and 80G & 12A tax exemptions).
 - **Core Metrics Bar:** Live metric displays representing beneficiaries reached, volunteer network size, and direct operations.
 - **6 Focus Initiatives:** Card components showing details and target social impacts for Sewa, BachpanSala, Jeev, Udaan, Prakriti, and Vikas projects.
+- **Interactive Impact Gallery:** A premium, beautifully styled visual gallery with smooth hover zoom-effects showcasing ground distribution drives, education sessions, and environmental campaigns.
 - **Modern Responsive Design:** Completely custom media queries stacked for smartphone viewports with flex-wrap logic.
 - **Fluid Visuals & UX:** Dynamic hover transforms, smooth view transitions, and custom typography pairings.
 
